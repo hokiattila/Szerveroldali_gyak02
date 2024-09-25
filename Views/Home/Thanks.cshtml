@@ -1,0 +1,29 @@
+﻿@model GuestResponse
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <p>
+        <h1>Thank You, @Model.Name</h1>  <!-- Itt nagybetuvel kell hivatkozni -->
+        @if (Model.WillAttend == true)
+        {
+            @:It's great that you're coming.
+        }
+        else
+        {
+            @:We're sorry that you can't make it.
+        }
+    </p>
+    <p>
+        Click <a asp-action="ListResponses">Here you can see whos coming</a>
+    </p>
+</body>
+</html>

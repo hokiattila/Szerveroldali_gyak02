@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Szerveroldali_gyak02.props" />
+</Project>

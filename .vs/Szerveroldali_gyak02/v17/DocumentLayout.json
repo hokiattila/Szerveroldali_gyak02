@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|c:\\users\\t470s\\desktop\\szerveroldali_gyak02\\views\\home\\inviteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|solutionrelative:views\\home\\inviteform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|c:\\users\\t470s\\desktop\\szerveroldali_gyak02\\views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|solutionrelative:views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|c:\\users\\t470s\\desktop\\szerveroldali_gyak02\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|solutionrelative:views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|c:\\users\\t470s\\desktop\\szerveroldali_gyak02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|c:\\users\\t470s\\desktop\\szerveroldali_gyak02\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|solutionrelative:models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|c:\\users\\t470s\\desktop\\szerveroldali_gyak02\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A30115E6-AF1F-4775-9138-16FC7846A9C5}|Szerveroldali_gyak02.csproj|solutionrelative:views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InviteForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\InviteForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\InviteForm.cshtml",
+              "ToolTip": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\InviteForm.cshtml",
+              "RelativeToolTip": "Views\\Home\\InviteForm.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T06:38:44.189Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListResponses.cshtml",
+              "DocumentMoniker": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\ListResponses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ListResponses.cshtml",
+              "ToolTip": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\ListResponses.cshtml",
+              "RelativeToolTip": "Views\\Home\\ListResponses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:14:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\Thanks.cshtml",
+              "RelativeToolTip": "Views\\Home\\Thanks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T07:02:06.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestResponse.cs",
+              "DocumentMoniker": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Models\\GuestResponse.cs",
+              "RelativeDocumentMoniker": "Models\\GuestResponse.cs",
+              "ToolTip": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Models\\GuestResponse.cs",
+              "RelativeToolTip": "Models\\GuestResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:32:15.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:12:11.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyView.cshtml",
+              "DocumentMoniker": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\MyView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyView.cshtml",
+              "ToolTip": "C:\\Users\\T470S\\Desktop\\Szerveroldali_gyak02\\Views\\Home\\MyView.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T06:22:27.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
